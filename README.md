@@ -10,3 +10,4 @@ update database_conx.py
 main = 信息查询系统()
 
 ## 程序下载链接：
+https://github.com/lk-itween/query_gui_with_Tk/releases/download/query_gui_with_Tk/query_gui_with_Tk.exe
